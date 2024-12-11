@@ -1,4 +1,4 @@
-azure_storage
+azure-storage-blob
 pandas
 Requests
 streamlit
