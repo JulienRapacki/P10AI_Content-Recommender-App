@@ -10,3 +10,8 @@ Python 3.7+
 Streamlit
 Pandas
 Requests
+
+![image](/Capture1.png)
+
+
+Plus de détails [ici](/Rapacki_Julien_3_presentation_122024.pdf)
